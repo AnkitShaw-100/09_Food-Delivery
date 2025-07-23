@@ -22,6 +22,7 @@ npm install
 # or
 yarn
 ```
+
 ## ⚙️ Tech Stack
 
 Next.js – React framework with SSR support
